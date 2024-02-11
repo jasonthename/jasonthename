@@ -2,7 +2,7 @@
 <img height=350 width=600 src="https://i.imgur.com/w6UNJJj.jpeg" /> 
 </div>
 <p align="center"><br/>
-I’m a Cybersecurity Engineer and Dark Web Researcher who specializes in Offensive Security, Incident Response, and Open Source Intelligence and for government and corporate cyber situations.
+I’m a Cybersecurity Engineer and Dark Web Researcher who specializes in Offensive Security, Incident Response, and Open Source Intelligence for government and corporate cyber situations.
 </p>
 
 
