@@ -11,7 +11,7 @@ I’m a Cybersecurity Engineer and Dark Web Researcher who specializes in Offens
 <!-- I'm currently focusing on my **PJPT prep, offsec Labs and scripting**, where I aim to pass the exams(PJPT), not just pass but learn from it well enough and putting it to practice thereby boosting my skills in solving real world problems in areas like [**Active Directory, Linux and Windows exploitation, VAPT ........**]. I'm excited about pushing the boundaries and learning new things in this field. Feel free to explore my repositories to see what I'm up to! -->
 
 I recently completed an MSc focused on researching Open-Source Intelligence and Dark Web operations, and I stay at the forefront of emerging cybersecurity trends and threats.
-Complementing my academic background, I hold the **CompTIA Security+, INE Junior Penetration Tester (eJPT), INE Certified Professional Penetration Tester (eCPPT) and INE Web Application Penetration Tester (eWPT)** certifications, validating my expertise in cybersecurity principles, penetration testing, and cybersecurity best practices. </br></br>I often blog on penetration testing based tools and topics on **[Medium](https://medium.com/@jasonjayjacobs)**.
+Complementing my academic background, I hold the **CompTIA Security+, INE Junior Penetration Tester (eJPT), INE Certified Professional Penetration Tester (eCPPT) and INE Web Application Penetration Tester (eWPT)** certifications, validating my expertise in cybersecurity principles, penetration testing, and cybersecurity best practices. </br></br>II write research-based CyberSecurity content for the beginners and enthusiasts **[Medium](https://medium.com/@jasonjayjacobs)**.
 
 
 
